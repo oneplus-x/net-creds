@@ -1,8 +1,0 @@
-libnmap
-deprecated
-NmapParser
-NmapProcess
-pysmbc
-psycopg2
-chardet
-validators
